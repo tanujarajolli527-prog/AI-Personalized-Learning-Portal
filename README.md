@@ -52,3 +52,17 @@ Project structure and initial documentation completed.
 
 ## Conclusion
 This project aims to make learning more personalized, interactive, and accessible for students.
+
+## Requirements Analysis
+
+The project requirements have been documented, including:
+
+- Functional and non-functional requirements
+- User requirements
+- Feature and module breakdown
+- Module dependencies
+- Feature prioritization
+- Development task list
+- Proposed implementation order
+
+Detailed documentation: [Requirements Analysis](docs/requirements-analysis.md)
