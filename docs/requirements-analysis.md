@@ -72,22 +72,30 @@ Students should be able to:
 - Personalized recommendations use learning activity and progress.
 - Notes and bookmarks are associated with student accounts.
 
+
 ## 8. Feature Prioritization
 
 ### Must Have
+Essential features for the first usable version:
 - User Authentication
 - Student Dashboard
 - Course Management
 - Lesson Management
-- Quiz & Assessment
+- Basic Quiz and Assessment
+- Basic Progress Tracking
 
 ### Should Have
+Important features that improve the learning experience:
 - AI Tutor
-- Progress Tracking
+- Personalized Recommendations
+- Notes and Bookmarks
 
 ### Could Have
-- Personalized Recommendations
-- Notes & Bookmarks
+Additional improvements that can be added if time permits:
+- Advanced Analytics
+- Richer Progress Visualizations
+- Detailed Recommendation Controls
+
 
 ## 9. Development Task List
 
